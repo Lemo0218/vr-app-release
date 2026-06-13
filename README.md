@@ -8,6 +8,12 @@
 
 https://github.com/Lemo0218/vr-app-release/releases/latest
 
+처음 사용하는 경우 본인 컴퓨터에 맞는 파일 하나만 받으면 됩니다.
+
+- 윈도우 다운로드: https://github.com/Lemo0218/vr-app-release/releases/download/v0.1.0/vr-basic-calculator-0.1.0-windows-x64-setup.exe
+- 맥 다운로드: https://github.com/Lemo0218/vr-app-release/releases/download/v0.1.0/vr-basic-calculator-0.1.0-macos-universal.dmg
+- 리눅스 다운로드: https://github.com/Lemo0218/vr-app-release/releases/download/v0.1.0/vr-basic-calculator-0.1.0-linux-x64.AppImage
+
 ## 설치 파일 선택
 
 - Windows: `vr-basic-calculator-0.1.0-windows-x64-setup.exe`
